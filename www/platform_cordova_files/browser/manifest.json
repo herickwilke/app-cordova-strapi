@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "001: FAE: 04_09: Storage",
+  "short_name": "001: FAE: 04_09: Storage",
+  "version": "com.example.template",
+  "description": "Brand new cordova project!",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
